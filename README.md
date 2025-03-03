@@ -2,8 +2,8 @@
 Replace create cardboard package to Nova Post package
 
 Authors:
-- Beengoo
-- Ogirok
+- Beengoo (beengoo_ua) - https://discord.gg/m9SHNErAfB
+- Ogirok (_ogirok_) - https://discord.gg/XPFPtNKVdq
 
 ![Image of key binds](https://github.com/Beengoo/createNovaPackage/blob/master/imgs/preview.png)
 
