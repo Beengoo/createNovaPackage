@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 34,
+    "description": "Replace cardboard packages to Nova Post packages"
+  },
+  "language": {
+    "UK_UA": {
+      "name": "Замінює текстури пакетів на посилки Нової Пошти",
+      "region": "Ukraine",
+      "bidirectional": false
+    }
+  }
+}
